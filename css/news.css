@@ -98,7 +98,7 @@ header {
   background-size: cover; }
   @media screen and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx) {
     #sub_cover {
-      background-image: url("../images/top/sub_cover@2x.jpg"); } }
+      background-image: url("../images/news/sub_cover@2x.jpg"); } }
   #sub_cover h2 {
     text-align: center;
     color: white;
