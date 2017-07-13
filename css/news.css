@@ -163,7 +163,7 @@ header {
       padding: 10px 10px 10px 20px; }
       @media screen and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx) {
         #contents #sidebar .pc_sidemenu li {
-          background-image: url("../images/news/side_arrow@2x.jpg"); } }
+          background-image: url("../images/news/side_arrow@2x.png"); } }
       #contents #sidebar .pc_sidemenu li a {
         color: #339fd1;
         text-decoration: none; }
